@@ -1,6 +1,8 @@
 # Automated-Music-Pricing-Using-Discogs
 A quick program which references given music track names and format (CD/Vinyl) to the Discogs Marketplace API and returns a given value.
 
+PREREQUISITS: python3, python discogs_client
+
 There MUST be comma's between titles. 
 There MUST be no spaces between comma's and titles
 
